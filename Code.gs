@@ -6,7 +6,7 @@
 // Konfigurasi umum
 const CONFIG = {
   // URL API ekstraksi Kartu Keluarga (ganti dengan URL deployment API Anda)
-  API_URL: "<LINK-API>",
+  API_URL: "<https://lynk.id/classyid/>",
   
   // Nama folder di Google Drive untuk menyimpan gambar KK
   UPLOAD_FOLDER_NAME: "KK_Uploads",
